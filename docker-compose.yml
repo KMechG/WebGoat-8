@@ -2,6 +2,6 @@ version: '3'
 
 services:
   web:
-    image: webgoat/webgoat-8.0:latest
+    image: webgoat/goatandwolf
     ports:
       - "8080:8080"
